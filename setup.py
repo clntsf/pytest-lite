@@ -6,7 +6,7 @@ with open("README.md", "r") as reader:
 REQ_PKGS = []
 
 setuptools.setup(
-    name="pytest_lite",
+    name="pytest-lite",
     version="0.0.1",
     author="Colin Simon-Fellowes",
     author_email="colin.tsf@gmail.com",
